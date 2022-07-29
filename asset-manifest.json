@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/instagram/static/css/main.d043bac7.css",
+    "main.js": "/instagram/static/js/main.c6e484dc.js",
+    "static/media/profile_3.png": "/instagram/static/media/profile_3.722a72855ddde96154ae.png",
+    "static/media/profile_9.png": "/instagram/static/media/profile_9.cda7e335aa2721cb57bb.png",
+    "static/media/profile_1.jpg": "/instagram/static/media/profile_1.8453bb0051d433a80631.jpg",
+    "static/media/profile_2.jpg": "/instagram/static/media/profile_2.a8cab76e4205f4b2cf40.jpg",
+    "static/media/profile_10.jpg": "/instagram/static/media/profile_10.ca4a28c7ae64e7c493cd.jpg",
+    "static/media/profile_5.jpg": "/instagram/static/media/profile_5.2325a5b002c38e1cb444.jpg",
+    "static/media/profile_7.jpg": "/instagram/static/media/profile_7.f07fff91c1434f34e592.jpg",
+    "static/media/profile_6.jpg": "/instagram/static/media/profile_6.b2b3b54415b1f48daa3b.jpg",
+    "static/media/profile_8.jpg": "/instagram/static/media/profile_8.d95aad1ff517ebd962b1.jpg",
+    "static/media/profile_4.jpg": "/instagram/static/media/profile_4.a51dedccdbbd06f2f0a3.jpg",
+    "static/media/profile.png": "/instagram/static/media/profile.a9136072d073801df253.png",
+    "index.html": "/instagram/index.html",
+    "main.d043bac7.css.map": "/instagram/static/css/main.d043bac7.css.map",
+    "main.c6e484dc.js.map": "/instagram/static/js/main.c6e484dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d043bac7.css",
+    "static/js/main.c6e484dc.js"
+  ]
+}
