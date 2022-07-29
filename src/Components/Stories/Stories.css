@@ -1,0 +1,37 @@
+section {
+    margin-top: 30px;
+}
+
+section .container {
+    max-width: 470px;
+}
+
+section .Stories {
+    height: 112px;
+    display: flex;
+    overflow: hidden;
+    gap: 15px;
+    position: relative;
+    border: 1px solid rgb(211, 211, 211);
+    padding: 15px;
+    border-radius: 8px;
+}
+
+
+section .Stories svg {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 21px;
+}
+
+section .Stories .slidePrev {
+    left: 18px;
+    top: 35%;
+    cursor: pointer;
+}
+
+section .Stories .slideNext {
+    right: 18px;
+    top: 35%;
+    cursor: pointer;
+}

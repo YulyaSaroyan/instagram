@@ -1,0 +1,5 @@
+.ChatboxMessages {
+    height: 63vh;
+    overflow-y: scroll;
+    position: relative;
+}

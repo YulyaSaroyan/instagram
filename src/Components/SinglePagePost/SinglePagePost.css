@@ -1,0 +1,15 @@
+.imgWrapper {
+    position: relative;
+}
+
+.imgWrapper img {
+    width: 270px;
+    height: 270px;
+    object-fit: cover;
+}
+
+.imgWrapper svg {
+    position: absolute;
+    right: 1%;
+    font-size: 20px;
+}

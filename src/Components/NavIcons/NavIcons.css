@@ -1,0 +1,34 @@
+nav .container .navIcons {
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 26%;
+}
+
+nav .container .navIcons img {
+    width: 28px;
+    border-radius: 50%;
+}
+
+nav .container .navIcons svg {
+    font-size: 28px;
+    color: rgb(0, 0, 0);
+}
+
+.active{
+    border-bottom: 3px solid;
+    color: rgb(0, 0, 0);
+}
+
+
+@media(max-width: 700px){
+    nav .container .navIcons {
+        margin-top: 20px;
+        gap: 18px;
+    }
+}
+
+@media(max-width: 300px){
+    nav .container .navIcons {
+        gap: 10px;
+    }
+}

@@ -1,0 +1,41 @@
+nav {
+    padding: 11px 0;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(211, 211, 211);
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+nav .container {
+    margin: 0 auto;
+    max-width: 950px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav .container .navImgInput {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-basis: 73%;
+}
+
+
+@media(max-width: 700px){
+    nav .container {
+        flex-direction: column;
+    }
+
+    nav .container .navImgInput {
+        gap: 20px;
+    }
+}
+
+@media(max-width: 330px){
+    nav .container .navImgInput {
+        flex-direction: column;
+    }
+}
+

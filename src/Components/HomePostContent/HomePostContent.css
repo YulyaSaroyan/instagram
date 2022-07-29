@@ -1,0 +1,41 @@
+.PostContent {
+    overflow: hidden;
+}
+
+.PostContent img {
+    width: 470px;
+    max-height: 470px;
+    cursor: pointer;
+    object-fit: cover;
+}
+
+
+@media(max-width: 500px){
+    .PostContent img {
+        max-width: 450px;
+    }
+}
+
+@media(max-width: 450px){
+    .PostContent img {
+        max-width: 400px;
+    }
+}
+
+@media(max-width: 400px){
+    .PostContent img {
+        max-width: 350px;
+    }
+}
+
+@media(max-width: 350px){
+    .PostContent img {
+        max-width: 300px;
+    }
+}
+
+@media(max-width: 290px){
+    .PostContent img {
+        max-width: 250px;
+    }
+}

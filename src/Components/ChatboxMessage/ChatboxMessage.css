@@ -1,0 +1,38 @@
+.messageSelf {
+    display: flex;
+    justify-content: flex-end;
+    margin: 5px 10px;
+} 
+
+
+.messageRemote {
+    display: flex;
+    align-items: baseline;
+    gap: 4px;
+    margin: 5px 10px;
+}
+
+.messageRemote p {
+    padding: 10px;
+    font-size: 15px;
+    background-color: rgb(232, 232, 232);
+    border-radius: 18px;
+    color: rgb(50, 50, 50);
+}
+
+.messageRemote img {
+    width: 25px;
+    border-radius: 50%;
+}
+
+.messageSelf img {
+    display: none;
+}
+
+.messageSelf p {
+    padding: 10px;
+    font-size: 15px;
+    background-color: rgb(232, 232, 232);
+    border-radius: 18px;
+    color: rgb(50, 50, 50);
+}

@@ -1,0 +1,10 @@
+.HomePostComments{
+    padding: 0 10px 10px;
+    font-size: 14px;
+}
+
+.HomePostComments .viewAllComments,
+.HomePostComments .viewLessComments {
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.546);
+}
